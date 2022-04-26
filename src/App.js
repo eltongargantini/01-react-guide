@@ -1,4 +1,6 @@
-import Expenses from "./components/Expenses";
+import Expenses from "./components/Expenses/Expenses";
+
+//é possível usar arrow function tbm const App = () => {}
 
 function App() {
   const data = [
